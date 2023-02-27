@@ -1,0 +1,10 @@
+.header-example {
+    background-color: bisque;
+}
+
+@media (min-width: 768px) { 
+    
+    .header-example {
+        background-color: red;
+    }
+ }
